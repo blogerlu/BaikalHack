@@ -1,0 +1,100 @@
+Comephorus_baikalensis_1 === gi|1784375287|ref|XM_031876489.1| PREDICTED: Anarrhichthys ocellatus 1-acylglycerol-3-phosphate O-acyltransferase 4 (agpat4), transcript variant X2, mRNA
+
+Comephorus_baikalensis_2 === gi|1842300052|ref|XM_034554192.1| PREDICTED: Cyclopterus lumpus SREBF chaperone (scap), transcript variant X3, mRNA
+
+Comephorus_baikalensis_3 === gi|1212787541|gb|KY425659.1| Dicentrarchus labrax LA-hemoglobin beta 1 mRNA, partial cds
+
+Comephorus_baikalensis_4 === gi|1842272019|ref|XM_034540281.1| PREDICTED: Cyclopterus lumpus hemoglobin subunit alpha-1 (LOC117735583), mRNA
+
+Comephorus_baikalensis_5 === gi|1249619785|gb|MF346887.1| Comephorus dybowskii isolate 090 mitochondrion, complete genome
+
+Comephorus_baikalensis_6 === gi|1842300052|ref|XM_034554192.1| PREDICTED: Cyclopterus lumpus SREBF chaperone (scap), transcript variant X3, mRNA
+
+Comephorus_dybowskii_1 === gi|1212787541|gb|KY425659.1| Dicentrarchus labrax LA-hemoglobin beta 1 mRNA, partial cds
+
+Comephorus_dybowskii_2 === gi|1842272019|ref|XM_034540281.1| PREDICTED: Cyclopterus lumpus hemoglobin subunit alpha-1 (LOC117735583), mRNA
+
+Comephorus_dybowskii_3 === gi|1249619757|gb|MF346885.1| Comephorus baicalensis isolate 813 mitochondrion, complete genome
+
+Comephorus_dybowskii_4  === gi|1784375287|ref|XM_031876489.1| PREDICTED: Anarrhichthys ocellatus 1-acylglycerol-3-phosphate O-acyltransferase 4 (agpat4), transcript variant X2, mRNA
+
+Comephorus_dybowskii_5  === gi|1842300052|ref|XM_034554192.1| PREDICTED: Cyclopterus lumpus SREBF chaperone (scap), transcript variant X3, mRNA
+
+Comephorus_dybowskii_6  === gi|1842300052|ref|XM_034554192.1| PREDICTED: Cyclopterus lumpus SREBF chaperone (scap), transcript variant X3, mRNA
+
+Comephorus_dybowskii_7 === gi|1935004488|gb|MT506346.1| Homo sapiens isolate AGENOME-ZPMRG-Z-V1.0 mitochondrion, complete genome
+
+Cottocomephorus_grewingkii_1 === gi|1784426620|ref|XM_031867484.1| PREDICTED: Anarrhichthys ocellatus SREBF chaperone (scap), transcript variant X3, mRNA
+
+Cottocomephorus_grewingkii_2 === gi|1212787541|gb|KY425659.1| Dicentrarchus labrax LA-hemoglobin beta 1 mRNA, partial cds
+
+Cottocomephorus_grewingkii_3 === gi|1231673337|emb|LT906441.1| Cutibacterium granulosum strain NCTC11865 genome assembly, chromosome: 1
+
+Cottocomephorus_grewingkii_4 === gi|1842272019|ref|XM_034540281.1| PREDICTED: Cyclopterus lumpus hemoglobin subunit alpha-1 (LOC117735583), mRNA
+
+Cottocomephorus_grewingkii_5  === gi|1842300052|ref|XM_034554192.1| PREDICTED: Cyclopterus lumpus SREBF chaperone (scap), transcript variant X3, mRNA
+
+Cottocomephorus_grewingkii_6 === gi|1269030734|ref|NC_036148.1| Comephorus baicalensis isolate B45 mitochondrion, complete genome >gi|1249619771|gb|MF346886.1| Comephorus baicalensis isolate B45 mitochondrion, complete genome
+
+Danio_rerio_1 === gi|1207122181|ref|XM_005158250.4| PREDICTED: Danio rerio SREBF chaperone (scap), transcript variant X1, mRNA
+
+Danio_rerio_2 === gi|71834533|ref|NM_001030196.1| Danio rerio diacylglycerol O-acyltransferase 2 (dgat2), mRNA >gi|66910328|gb|BC096927.1| Danio rerio diacylglycerol O-acyltransferase 2, mRNA (cDNA clone MGC:113394 IMAGE:7170282), complete cds
+
+Danio_rerio_3 === gi|940813936|gb|KT624627.1| Danio rerio strain AB mitochondrion, partial genome
+
+Danio_rerio_4 === gi|47085690|ref|NM_212992.1| Danio rerio 1-acylglycerol-3-phosphate O-acyltransferase 4 (lysophosphatidic acid acyltransferase, delta) (agpat4), mRNA >gi|34784870|gb|BC056788.1| Danio rerio 1-acylglycerol-3-phosphate O-acyltransferase 4 (lysophosphatidic acid acyltransferase, delta), mRNA (cDNA clone MGC:63605 IMAGE:5600467), complete cds
+
+Danio_rerio_5 === gi|1450320925|ref|NM_182940.3| Danio rerio hemoglobin, alpha embryonic 1.1 (hbae1.1), mRNA
+
+Danio_rerio_6 === gi|1450320885|ref|NM_001103130.2| Danio rerio hemoglobin beta embryonic-1.2 (hbbe1.2), mRNA
+
+Gasterosteus_aculeatus_1 === gi|1930601074|ref|XM_037467748.1| PREDICTED: Pungitius pungitius diacylglycerol O-acyltransferase 2 (dgat2), transcript variant X2, mRNA
+
+Gasterosteus_aculeatus_2 === gi|390407680|ref|NM_001267638.1| Gasterosteus aculeatus beta globin (LOC100174873), mRNA >gi|28195690|gb|AY184355.1| Gasterosteus aculeatus beta globin mRNA, complete cds
+
+Gasterosteus_aculeatus_3 === gi|112421189|gb|BT027948.1| Gasterosteus aculeatus clone CNB77-H01 mRNA sequence
+
+Gasterosteus_aculeatus_4 === gi|1207122185|ref|XM_681493.7| PREDICTED: Danio rerio SREBF chaperone (scap), transcript variant X2, mRNA
+
+Gasterosteus_aculeatus_5 === gi|1600726832|ref|NC_041244.1| Gasterosteus aculeatus mitochondrion, complete genome >gi|1575640556|gb|MH205729.1| Gasterosteus aculeatus mitochondrion, complete genome
+
+Gasterosteus_aculeatus_6 === gi|1930597168|ref|XM_037465668.1| PREDICTED: Pungitius pungitius 1-acylglycerol-3-phosphate O-acyltransferase 4 (lysophosphatidic acid acyltransferase, delta) (agpat4), transcript variant X2, mRNA
+
+Paracottus_knerii_1 === gi|1269030734|ref|NC_036148.1| Comephorus baicalensis isolate B45 mitochondrion, complete genome >gi|1249619771|gb|MF346886.1| Comephorus baicalensis isolate B45 mitochondrion, complete genome
+
+Paracottus_knerii_2 === gi|1784375287|ref|XM_031876489.1| PREDICTED: Anarrhichthys ocellatus 1-acylglycerol-3-phosphate O-acyltransferase 4 (agpat4), transcript variant X2, mRNA
+
+Paracottus_knerii_3 === gi|1231673337|emb|LT906441.1| Cutibacterium granulosum strain NCTC11865 genome assembly, chromosome: 1
+
+Paracottus_knerii_4 === gi|1842300052|ref|XM_034554192.1| PREDICTED: Cyclopterus lumpus SREBF chaperone (scap), transcript variant X3, mRNA
+
+Paracottus_knerii_5 === gi|1212787541|gb|KY425659.1| Dicentrarchus labrax LA-hemoglobin beta 1 mRNA, partial cds
+
+Paracottus_knerii_6 === gi|1842272019|ref|XM_034540281.1| PREDICTED: Cyclopterus lumpus hemoglobin subunit alpha-1 (LOC117735583), mRNA
+
+Paracottus_knerii_7 === gi|1842300052|ref|XM_034554192.1| PREDICTED: Cyclopterus lumpus SREBF chaperone (scap), transcript variant X3, mRNA
+
+Procottus jeittelesii_1 === gi|1269030734|ref|NC_036148.1| Comephorus baicalensis isolate B45 mitochondrion, complete genome >gi|1249619771|gb|MF346886.1| Comephorus baicalensis isolate B45 mitochondrion, complete genome
+
+Procottus jeittelesii_2 === gi|1842272019|ref|XM_034540281.1| PREDICTED: Cyclopterus lumpus hemoglobin subunit alpha-1 (LOC117735583), mRNA
+
+Procottus jeittelesii_3  === gi|1784375287|ref|XM_031876489.1| PREDICTED: Anarrhichthys ocellatus 1-acylglycerol-3-phosphate O-acyltransferase 4 (agpat4), transcript variant X2, mRNA
+
+Procottus jeittelesii_4 === gi|1212787541|gb|KY425659.1| Dicentrarchus labrax LA-hemoglobin beta 1 mRNA, partial cds
+
+Procottus jeittelesii_5  === gi|1842300052|ref|XM_034554192.1| PREDICTED: Cyclopterus lumpus SREBF chaperone (scap), transcript variant X3, mRNA
+
+Procottus jeittelesii_6 === gi|1842300052|ref|XM_034554192.1| PREDICTED: Cyclopterus lumpus SREBF chaperone (scap), transcript variant X3, mRNA
+
+Сottocomephorus_inermis_1 === gi|1212787541|gb|KY425659.1| Dicentrarchus labrax LA-hemoglobin beta 1 mRNA, partial cds
+
+Сottocomephorus_inermis_2 === Error
+
+bychok_agat4 === Error
+
+Сottocomephorus inermis_4 === gi|1842272019|ref|XM_034540281.1| PREDICTED: Cyclopterus lumpus hemoglobin subunit alpha-1 (LOC117735583), mRNA
+
+Сottocomephorus inermis_5 === Error
+
+Сottocomephorus inermis_6 === Error
+
